@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Dfdf",
+  "applicationTitle": "Dfdf",
+  "items": [
+    {
+      "link": null,
+      "menuName": "dfdf",
+      "caption": "Dfdf",
+      "title": "Dfdf",
+      "children": [
+        {
+          "link": "i-i-s-dfdf-дир-персонала-l",
+          "menuName": null,
+          "caption": "Дир персонала",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdf-согласие-l",
+          "menuName": null,
+          "caption": "Согласие",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dfdf-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

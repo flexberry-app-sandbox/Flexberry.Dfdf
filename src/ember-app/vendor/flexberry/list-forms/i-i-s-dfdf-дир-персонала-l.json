@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dfdf-дир-персонала-e",
+  "editForm": "i-i-s-dfdf-дир-персонала-e",
+  "external": false,
+  "caption": "Дир персонала",
+  "name": "IISDfdfДирПерсоналаL",
+  "className": "ДирПерсоналаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dfdf-дир-персонала",
+      "modelProjection": "ДирПерсоналаL"
+    }
+  ]
+}

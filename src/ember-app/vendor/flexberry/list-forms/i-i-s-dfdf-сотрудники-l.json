@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dfdf-сотрудники-e",
+  "editForm": "i-i-s-dfdf-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISDfdfСотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dfdf-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

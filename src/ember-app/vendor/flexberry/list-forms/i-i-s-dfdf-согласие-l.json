@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dfdf-согласие-e",
+  "editForm": "i-i-s-dfdf-согласие-e",
+  "external": false,
+  "caption": "Согласие",
+  "name": "IISDfdfСогласиеL",
+  "className": "СогласиеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dfdf-согласие",
+      "modelProjection": "СогласиеL"
+    }
+  ]
+}
