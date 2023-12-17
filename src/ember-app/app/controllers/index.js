@@ -28,13 +28,13 @@ export default Controller.extend({
             link: 'i-i-s-dfdf-согласие-l',
             caption: i18n.t('forms.application.sitemap.dfdf.i-i-s-dfdf-согласие-l.caption'),
             title: i18n.t('forms.application.sitemap.dfdf.i-i-s-dfdf-согласие-l.title'),
-            icon: 'phone',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-dfdf-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.dfdf.i-i-s-dfdf-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.dfdf.i-i-s-dfdf-сотрудники-l.title'),
-            icon: 'chart bar',
+            icon: 'file',
             children: null
           }]
         }
